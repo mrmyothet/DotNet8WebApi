@@ -1,0 +1,6 @@
+@DotNetCoreAPI.BlogDapper_HostAddress = http://localhost:5182
+
+GET {{DotNetCoreAPI.BlogDapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
