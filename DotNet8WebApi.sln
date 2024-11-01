@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNet8WebApi.BlogDapper", "DotNetCoreAPI.BlogDapper\DotNet8WebApi.BlogDapper.csproj", "{E3AB61F8-6176-4038-84A0-BDE822154AEE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet8WebApi.ExpensesApi", "DotNet8WebApi.ExpensesApi\DotNet8WebApi.ExpensesApi.csproj", "{EB0757A4-9BF9-4BBF-A05B-7BDA680998DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E3AB61F8-6176-4038-84A0-BDE822154AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3AB61F8-6176-4038-84A0-BDE822154AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3AB61F8-6176-4038-84A0-BDE822154AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB0757A4-9BF9-4BBF-A05B-7BDA680998DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0757A4-9BF9-4BBF-A05B-7BDA680998DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0757A4-9BF9-4BBF-A05B-7BDA680998DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0757A4-9BF9-4BBF-A05B-7BDA680998DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
